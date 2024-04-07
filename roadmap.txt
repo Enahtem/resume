@@ -1,0 +1,18 @@
+Python LeetCode (https://leetcode.com/problemset/)
+Algorithms Textbook
+Machine Learning Textbook
+Deep Learning Textbook
+NLP Textbook
+NLP Research
+- Message ZiXin about Fictional Knowledge Graph Entity/Relations Representations (Cuong Xuan Chu Thesis?)
+- Research Discourse Segmentation
+- Implement Discourse Segmentation?
+Linear Algebra
+ESC190 Project 2
+Praxis Research
+MLOps Textbook
+Statistics Textbook
+Data Science Textbook
+Calculus Textbook
+UTAT Destriping Model (https://github.com/acecreamu/deep-hs-prior)
+NeoVim/Linux Setup
