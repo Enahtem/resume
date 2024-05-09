@@ -11,9 +11,13 @@
 -Diverging Tasks-
 	NOTE: Deeply learn with encode, explain, expand, engrave.
 	NLP Textbook - COMPLETE TEXTBOOK
+		Mini Projects
+		ReGex Game (Origins of Project Engrave. To Be Expanded On)
+		Recursive Regex Web Scraper + Crawler for Contacts. (Email, Phone, Social Media, Address)
+		
 	Deep Learning Textbook - COMPLETE SECTION I
 	Philosophy Textbook - Ancient Philosophy
-	PROJECTS
+	MAJOR PROJECTS
 	Project Encode: AI Knowledge Extraction
 	Project Explain: AI Proving/Simulating
 	Project Expand: AI Debater/Communicator
