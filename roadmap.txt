@@ -1,18 +1,34 @@
-Python LeetCode (https://leetcode.com/problemset/)
-Algorithms Textbook
-Machine Learning Textbook
-Deep Learning Textbook
-NLP Textbook
-NLP Research
-- Message ZiXin about Fictional Knowledge Graph Entity/Relations Representations (Cuong Xuan Chu Thesis?)
-- Research Discourse Segmentation
-- Implement Discourse Segmentation?
-Linear Algebra
-ESC190 Project 2
-Praxis Research
-MLOps Textbook
-Statistics Textbook
-Data Science Textbook
-Calculus Textbook
-UTAT Destriping Model (https://github.com/acecreamu/deep-hs-prior)
-NeoVim/Linux Setup
+6:00 Exercise > Lean 70kg Physique (-1kg/week)
+8:00 Projecting > Improvement
+10:00 Diverging > Understanding Textbooks
+2:00 Converging > AI Learning Projects 
+6:00 Representing > Solidify Identity
+10:00 Reflecting > Improvement
+12:00 Meditate > Temperance
+
+---
+
+-Diverging Tasks-
+	NOTE: Deeply learn with encode, explain, expand, engrave.
+	NLP Textbook - COMPLETE TEXTBOOK
+	Deep Learning Textbook - COMPLETE SECTION I
+	Philosophy Textbook - Ancient Philosophy
+	PROJECTS
+	Project Encode: AI Knowledge Extraction
+	Project Explain: AI Proving/Simulating
+	Project Expand: AI Debater/Communicator
+	Project Engrave: AI Tester/Scheduler/Projector/Reflector
+
+-Converging Tasks-
+	Setup Linux, NeoVim on PC
+	NLP Research: Ideal Graph for Human Readability + Examples (Keywords: Causal Plots, Fabulas)
+-Representing Tasks-
+	Revamp Resume
+	Edit LinkedIn
+	Fix GitHub
+	Start Website
+	Reflect on Identity
+	Study Taxes, Cooking, Driving
+	Ponder Personal Preferences (Food, Movie, )
+	ponder interview questions, etc.
+	ponder responses to daily conversation. politics, economics, news stuff
